@@ -4,7 +4,7 @@
 
 # Objective
 
-The key objective of this project is to generate a large and highly curated imaging dataset of pediatric medulloblastoma patients with annotations suitable for cancer researchers and AI developers. The artifacts generated in this project will conform to the imaging and informatics standards adopted by The Cancer Imaging Archive (TCIA) and the Imaging Data Commons (IDC) initiatives and will be made available to the community. The curation and annotation protocol will be developed collaboratively by a team of clinicians, engineers, and data scientists at the National Cancer Institute, Leidos Biomedical Research, Frederick National Laboratory, and CapeStart.
+The key objective of this project is to generate a large and highly curated imaging dataset of pediatric medulloblastoma patients with annotations suitable for cancer researchers and AI developers. The artifacts generated in this project will conform to the imaging and informatics standards adopted by The Cancer Imaging Archive (TCIA) and the Imaging Data Commons (IDC) initiatives and will be made available to the community. The curation and annotation protocol will be developed collaboratively by a team of clinicians, engineers, and data scientists at the National Cancer Institute, Leidos Biomedical Research, Frederick National Laboratory, and CapeStart. The annotated data can be found at https://doi.org/10.7937/TCIA.582B-XZ89.
 
 # Imaging Protocol
 
